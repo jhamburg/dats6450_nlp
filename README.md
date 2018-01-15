@@ -57,12 +57,15 @@ This is a tentative schedule, and subject to change. Please check here regularly
 
 ### Textbooks and Course Resources:
 Class slack channel - https://gwunlp.slack.com
+
 Textbook - Speech and Language Processing (3rd ed. draft) by
 Dan Jurafsky and James H. Martin https://web.stanford.edu/~jurafsky/slp3/
 
 ### Additional Resources:
 NLP newsletter by Sebastian Ruder - http://newsletter.ruder.io
+
 Lab41 - https://gab41.lab41.org/
+
 Data science links - www.datatau.com
 
 ### Learning Assignments:
