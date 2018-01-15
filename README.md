@@ -3,12 +3,12 @@ Repository for DATS 6450 - Modern Natural Language Processing
 
     
 ##  Modern Natural Language Processing - Spring 2018
-Monday 6:10PM - 8:40PM
+Monday 6:10PM - 8:40PM, 1957 E St, Rm 112
 
-Thursday 6:10PM - 8:40PM
+Thursday 6:10PM - 8:40PM, Monroe Hall, Rm 115
 
 
-![An image from the perennial classic WarGames, starring Matthew Broderick](https://i.imgur.com/gNya6RL.jpg)
+![An image from the perennial classic WarGames](https://i.imgur.com/gNya6RL.jpg)
 
 
 ----------
@@ -38,14 +38,14 @@ This is a tentative schedule, and subject to change. Please check here regularly
 
 | Week Number      | Topics           | Course Material  | Readings| Assignments
 | :-------------: |:-------------| :-----|:----|:------|
-| **1**| Introduction, regex, tf-idf | | SLP: Chapter 2, 15 | |
-| **2** | SVD, PMI |    | | |
+| **1**| Introduction, regex, tf-idf | Workbook 1 | SLP: Chapter 2, 15 | Workbook 1 |
+| **2** | SVD, PMI | | SLP: Chapter 15 | |
 | **3** | Introduction to neural networks, logistic regression review |     | | |
 | **4** | Feed forward networks |    | | |
 | **5** | Word2vec, Glove representations |    | | |
 | **6** | Recurrent Neural Networks |   | | |
-| **7** |      |   | | |
-| **8** |      |    | | |
+| **7** | Classification, other word representations |   | | |
+| **8** | |    | | |
 | **9** |      |    | | |
 | **10** |     |    | | |
 | **11** |       |    | |  |
@@ -56,12 +56,17 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **16** |      |    | | |
 
 ### Textbooks and Course Resources:
- Speech and Language Processing (3rd ed. draft) by
+Class slack channel - https://gwunlp.slack.com
+Textbook - Speech and Language Processing (3rd ed. draft) by
 Dan Jurafsky and James H. Martin https://web.stanford.edu/~jurafsky/slp3/
 
+### Additional Resources:
+NLP newsletter by Sebastian Ruder - http://newsletter.ruder.io
+Lab41 - https://gab41.lab41.org/
+Data science links - www.datatau.com
 
 ### Learning Assignments:
-#### In-Class Exercise:
+#### In-Class Exercises:
  These assessments will be used to check learning and give feedback on areas for improvement. Reading prior to class, class attendance, and participation in activities are essential for success on this part of the course.
 #### Homework Assignments:
  Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard. We will work to provide feedback at the next class session. 
