@@ -4,7 +4,10 @@ Repository for DATS 6450 - Modern Natural Language Processing
     
 ##  Modern Natural Language Processing - Spring 2018
 Monday 6:10PM - 8:40PM
+
 Thursday 6:10PM - 8:40PM
+
+
 ![An image from the perennial classic WarGames, starring Matthew Broderick](https://i.imgur.com/gNya6RL.jpg)
 
 
