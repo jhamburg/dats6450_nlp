@@ -43,17 +43,17 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **3** | Introduction to neural networks, logistic regression review |     | | |
 | **4** | Feed forward networks |    | | |
 | **5** | Word2vec, Glove representations |    | | |
-| **6** | Recurrent Neural Networks |   | | |
-| **7** | Classification, other word representations |   | | |
-| **8** | |    | | |
-| **9** |      |    | | |
-| **10** |     |    | | |
-| **11** |       |    | |  |
-| **12** |       |    | | |
-| **13** |       |    | | |
-| **14** |      |    | | |
-| **15** |       |    | | |
-| **16** |      |    | | |
+| **6** | Classification, other word representations |   | | |
+| **7** | Recurrent Neural Networks, LSTM |   | | |
+| **8** | Dependency Parsing |    | | |
+| **9** | Language models |    | | |
+| **10** | Seq2Seq |    | | |
+| **11** | Translation |    | |  |
+| **12** | Attention |    | | |
+| **13** | Convolutional Neural Networks |    | | |
+| **14** | Coreference resolution |    | | |
+| **15** | QA Systems, advanced topics |    | | |
+| **16** | Presentations |    | | |
 
 ### Textbooks and Course Resources:
 Class slack channel - https://gwunlp.slack.com
