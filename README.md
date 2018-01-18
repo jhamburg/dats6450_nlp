@@ -38,7 +38,7 @@ This is a tentative schedule, and subject to change. Please check here regularly
 
 | Week Number      | Topics           | Course Material  | Readings| Assignments
 | :-------------: |:-------------| :-----|:----|:------|
-| **1**| Introduction, regex, tf-idf | Lecture 1 | SLP: Chapter 2, 15 | Workbook 1 (Due in class Week 3)|
+| **1**| Introduction, regex, tf-idf | Lecture 1 | SLP: Chapter 2, 15 | Baby names, Movie review classification (Due on Lecture 3)|
 | **2** | SVD, PMI | | SLP: Chapter 15 | |
 | **3** | Introduction to neural networks, logistic regression review |     | | |
 | **4** | Feed forward networks |    | | |
