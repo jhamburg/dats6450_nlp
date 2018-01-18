@@ -40,19 +40,19 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | :-------------: |:-------------| :-----|:----|:------|
 | **1**| Introduction, regex, tf-idf | Lecture 1 | SLP: Chapter 2, 15 | Baby names, Movie review classification (Due on Lecture 3)|
 | **2** | SVD, PMI | | SLP: Chapter 15 | |
-| **3** | Introduction to neural networks, logistic regression review |     | | |
+| **3** | Introduction to neural networks, logistic regression review (Quiz 1) |     | | |
 | **4** | Feed forward networks |    | | |
 | **5** | Word2vec, Glove representations |    | | |
-| **6** | Classification, other word representations |   | | |
+| **6** | Classification, other word representations (Quiz 2) |   | | |
 | **7** | Recurrent Neural Networks, LSTM |   | | |
 | **8** | Dependency Parsing |    | | |
-| **9** | Language models |    | | |
+| **9** | Language models (Quiz 3) |    | | |
 | **10** | Seq2Seq,  Attention |    | | |
 | **11** | Translation |    | |  |
-| **12** | Convolutional Neural Networks  |    | | |
+| **12** | Convolutional Neural Networks  (Quiz 4) |    | | |
 | **13** | Coreference resolution |    | | |
 | **14** | QA Systems I |    | | |
-| **15** | QA Systems II |    | | |
+| **15** | QA Systems II  (Quiz 5) |    | | |
 | **16** | Model deployment, advanced topics |    | | |
 
 ### Textbooks and Course Resources:
