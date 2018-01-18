@@ -16,7 +16,7 @@ Thursday 6:10PM - 8:40PM, Monroe Hall, Rm 115
 ### Course and Contact Information:
 Instructor Name: Tim Stacey
 
-Office hours: TBA
+Office hours: Wednesday, 5:30-7:30 Corcoran Hall Suite 426a
 
 Teaching Assistant: TBA
 
