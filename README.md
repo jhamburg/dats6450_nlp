@@ -74,9 +74,9 @@ Data science links - www.datatau.com
 #### Homework Assignments:
  Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard. We will work to provide feedback at the next class session. 
 #### Class Projects: 
-Two group projects will be assigned over the semester to give students practice on applying data science principles and methods to various problems. Students will also build teamwork, communication, and technical skills.
-#### Quizzes: 
-Two quizzes will be given to ensure students are gaining knowledge and doing out of class readings 
+Two group projects will be assigned over the semester to give students practice on applying NLP principles and methods to various problems. Students will also build teamwork, communication, and technical skills.
+#### "Quizzes": 
+Five "quizzes" will be given to ensure students are gaining knowledge - quizzes are put in quotations because these will be mini-assignments completable in class, with potential help from outside resources.
 
 ### Grading:
 Your final grade will be determined by:
