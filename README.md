@@ -44,16 +44,16 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **4** | Feed forward networks |    | | |
 | **5** | Word2vec, Glove representations |    | | |
 | **6** | Classification, other word representations *(Quiz 2)* |   | | |
-| **7** | Recurrent Neural Networks, LSTM |   | | |
-| **8** | Dependency Parsing |    | | |
+| **7** | Recurrent Neural Networks, LSTM |   | |*Project 1 assigned*|
+| **8** | Dependency Parsing  |    | |  |
 | **9** | Language models *(Quiz 3)* |    | | |
 | **10** | Seq2Seq,  Attention |    | | |
-| **11** | Translation |    | |  |
-| **12** | Convolutional Neural Networks  *(Quiz 4)* |    | | |
+| **11** | Translation |    | | *Project 1 due* |
+| **12** | Convolutional Neural Networks  *(Quiz 4)* |    | |  *Project 2 assigned* |
 | **13** | Coreference resolution |    | | |
 | **14** | QA Systems I |    | | |
 | **15** | QA Systems II  *(Quiz 5)* |    | | |
-| **16** | Model deployment, advanced topics |    | | |
+| **16** | Model deployment, advanced topics |    | |*Project 2 due*  |
 
 ### Textbooks and Course Resources:
 Class slack channel - https://gwunlp.slack.com
