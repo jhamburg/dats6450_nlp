@@ -47,13 +47,13 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **7** | Recurrent Neural Networks, LSTM |   | | |
 | **8** | Dependency Parsing |    | | |
 | **9** | Language models |    | | |
-| **10** | Seq2Seq |    | | |
+| **10** | Seq2Seq,  Attention |    | | |
 | **11** | Translation |    | |  |
-| **12** | Attention |    | | |
-| **13** | Convolutional Neural Networks |    | | |
-| **14** | Coreference resolution |    | | |
-| **15** | QA Systems, advanced topics |    | | |
-| **16** | Presentations |    | | |
+| **12** | Convolutional Neural Networks  |    | | |
+| **13** | Coreference resolution |    | | |
+| **14** | QA Systems I |    | | |
+| **15** | QA Systems II |    | | |
+| **16** | Model deployment, advanced topics |    | | |
 
 ### Textbooks and Course Resources:
 Class slack channel - https://gwunlp.slack.com
