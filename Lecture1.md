@@ -96,9 +96,49 @@ Then the if-statement tests the match -- if true the search succeeded and match.
 
 The 'r' at the start of the pattern string designates a python "raw" string which passes through backslashes without change which is very handy for regular expressions.
 
+### Basic Patterns
 
+The power of regular expressions is that they can specify patterns, not just fixed characters. Here are the most basic patterns which match single chars:
+
+   a, X, 9 < -- ordinary characters just match themselves exactly. The meta-characters which do not match themselves because they have special meanings are: . ^ $ * + ? { [ ] \ | ( )
+   
+   . (a period) -- matches any single character except newline '\n'
+    
+   \w -- (lowercase w) matches a "word" character: a letter or digit or underbar [a-zA-Z0-9_]. Note that although "word" is the mnemonic for this, it only matches a single word char, not a whole word. \W (upper case W) matches any non-word character.
+    
+   \b -- boundary between word and non-word
+    
+   \s -- (lowercase s) matches a single whitespace character -- space, newline, return, tab, form [ \n\r\t\f]. \S (upper case S) matches any non-whitespace character.
+    
+   \t, \n, \r -- tab, newline, return
+    
+   \d -- decimal digit [0-9] (some older regex utilities do not support but \d, but they all support \w and \s)
+    
+   ^ = start, $ = end -- match the start or end of the string
+    
+   \ -- inhibit the "specialness" of a character. So, for example, use \. to match a period or \\ to match a slash. If you are unsure if a character has special meaning, such as '@', you can put a slash in front of it, \@, to make sure it is treated just as a character. 
+
+*Regular expression python notebook*
+
+**Assignment:** Baby names! https://developers.google.com/edu/python/exercises/baby-names
+Starter code is provided in the zip file on the website.
 
 ## Lemmatization and stemming
 
-## Starting to turn words into numbers - introducing tf-idf
+### Stemming:
 
+In linguistic morphology and information retrieval, stemming is the process for reducing inflected (or sometimes derived) words to their stem, base or root form—generally a written word form. The stem need not be identical to the morphological root of the word; it is usually sufficient that related words map to the same stem, even if this stem is not in itself a valid root. Algorithms for stemming have been studied in computer science since the 1960s. Many search engines treat words with the same stem as synonyms as a kind of query expansion, a process called conflation.
+
+### Lemmatization
+
+Lemmatisation (or lemmatization) in linguistics, is the process of grouping together the different inflected forms of a word so they can be analysed as a single item.
+
+In computational linguistics, lemmatisation is the algorithmic process of determining the lemma for a given word. Since the process may involve complex tasks such as understanding context and determining the part of speech of a word in a sentence (requiring, for example, knowledge of the grammar of a language) it can be a hard task to implement a lemmatiser for a new language.
+
+In many languages, words appear in several inflected forms. For example, in English, the verb ‘to walk’ may appear as ‘walk’, ‘walked’, ‘walks’, ‘walking’. The base form, ‘walk’, that one might look up in a dictionary, is called the lemma for the word. The combination of the base form with the part of speech is often called the lexeme of the word.
+
+Lemmatisation is closely related to stemming. The difference is that a stemmer operates on a single word without knowledge of the context, and therefore cannot discriminate between words which have different meanings depending on part of speech. However, stemmers are typically easier to implement and run faster, and the reduced accuracy may not matter for some applications.
+
+
+## Starting to turn words into numbers - introducing tf-idf
+See the accompanying python notebook!
