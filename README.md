@@ -53,7 +53,7 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **13** | Coreference resolution |    | | |
 | **14** | QA Systems I |    | | |
 | **15** | QA Systems II  *(Quiz 5)* |    | | |
-| **16** | Model deployment, advanced topics |    | |*Project 2 due*  |
+| **16** | Model deployment, advanced topics |    | |*Project 2 due during finals week*  |
 
 ### Textbooks and Course Resources:
 Class slack channel - https://gwunlp.slack.com
