@@ -38,10 +38,10 @@ This is a tentative schedule, and subject to change. Please check here regularly
 
 | Week Number      | Topics           | Course Material  | Readings| Assignments
 | :-------------: |:-------------| :-----|:----|:------|
-| **1**| Introduction, regex, tf-idf | Lecture 1 | SLP: Chapter 2, 15 | Baby names, Movie review classification (Due on Lecture 3)|
+| **1**| Introduction, regex, tf-idf | Lecture 1 | SLP: Chapter 2, 15 | Baby names, Movie review classification (Due on Lecture 4)|
 | **2** | SVD, PMI | | SLP: Chapter 15 | |
-| **3** | Introduction to neural networks, logistic regression review *(Quiz 1)* |     | | |
-| **4** | Feed forward networks |    | | |
+| **3** | Introduction to neural networks, logistic regression review  |     | | |
+| **4** | Feed forward networks *(Quiz 1)*|    | | |
 | **5** | Word2vec, Glove representations |    | | |
 | **6** | Classification, other word representations *(Quiz 2)* |   | | |
 | **7** | Recurrent Neural Networks, LSTM |   | |*Project 1 assigned*|
@@ -62,6 +62,8 @@ Textbook - Speech and Language Processing (3rd ed. draft) by
 Dan Jurafsky and James H. Martin https://web.stanford.edu/~jurafsky/slp3/
 
 ### Additional Resources:
+A great introduction to machine learning: http://www-bcf.usc.edu/~gareth/ISL/
+
 NLP newsletter by Sebastian Ruder - http://newsletter.ruder.io
 
 Lab41 - https://gab41.lab41.org/
