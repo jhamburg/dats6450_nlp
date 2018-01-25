@@ -195,7 +195,7 @@ Precision: 0.9455, Recall: 0.8013, F1-measure: 0.8674
 Macro-average quality numbers
 Precision: 0.6493, Recall: 0.3948, F1-measure: 0.4665
 
-### Clustering on text
+## Clustering on text
 
 ## In class assignment: Cluster on social media!
 1. Register for an app on twitter using these directions: (https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
