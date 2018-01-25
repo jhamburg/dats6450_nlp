@@ -28,6 +28,7 @@
 ### Determining feature importance
 
 ### Clustering on text
+(https://gist.github.com/bonzanini/af0463b927433c73784d)
 
 ### Singluar value decomposition / Latent semantic analysis
 
