@@ -36,13 +36,13 @@ You are expected to have a basic understanding of Python, linear algebra, and pr
 ### Tentative Schedule:
 This is a tentative schedule, and subject to change. Please check here regularly for updates.
 
-| Week Number      | Topics           | Course Material  | Readings| Assignments
+| Week Number      | Topics           | | Readings| Assignments
 | :-------------: |:-------------| :-----|:----|:------|
-| **1**| Introduction, regex, tf-idf | Lecture 1 | SLP: Chapter 2, 15 | Baby names, Movie review classification (Due on Lecture 4)|
-| **2** | SVD, PMI | | SLP: Chapter 15 | |
-| **3** | Introduction to neural networks, logistic regression review  |     | | |
-| **4** | Feed forward networks *(Quiz 1)*|    | | |
-| **5** | Word2vec, Glove representations |    | | |
+| **1**| Introduction, regex, tf-idf | | SLP: Chapter 2, 15 | **Movie review classification (Due on Lecture 4)**|
+| **2** | Using tf-idf for classification and clustering | | SLP: Chapter 15 | |
+| **3** | Introduction to tensorflow, logistic regression review  |   |  http://cs231n.github.io/optimization-1/ | |
+| **4** | Feed forward networks *(Quiz 1)*|    | http://cs231n.github.io/neural-networks-1/, http://cs231n.github.io/linear-classify/ | |
+| **5** | Word2vec, Glove representations |    | | **Word embedding assignment (Due on Lecture 6 for Thurs class, Lecture 7 for Mon class)** |
 | **6** | Classification, other word representations *(Quiz 2)* |   | | |
 | **7** | Recurrent Neural Networks, LSTM |   | |*Project 1 assigned*|
 | **8** | Dependency Parsing  |    | |  |
@@ -50,10 +50,8 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **10** | Seq2Seq,  Attention |    | | |
 | **11** | Translation |    | | *Project 1 due* |
 | **12** | Convolutional Neural Networks  *(Quiz 4)* |    | |  *Project 2 assigned* |
-| **13** | Coreference resolution |    | | |
-| **14** | QA Systems I |    | | |
-| **15** | QA Systems II  *(Quiz 5)* |    | | |
-| **16** | Model deployment, advanced topics |    | |*Project 2 due during finals week*  |
+| **13** | QA Systems I |    | | |
+| **14** | QA Systems II  *(Quiz 5)*  |   | | *Project 2 due during finals week*|
 
 ### Textbooks and Course Resources:
 Class slack channel - https://gwunlp.slack.com
