@@ -44,8 +44,8 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **4** | Feed forward networks *(Quiz 1)*|    | http://cs231n.github.io/neural-networks-1/, http://cs231n.github.io/linear-classify/ | |
 | **5** | Word2vec, Glove representations |    | SLP: Chapter 16, https://www.tensorflow.org/versions/r0.12/tutorials/word2vec/ | **Word embedding assignment (Due on Lecture 8)** |
 | **6** | Classification, other word representations |   | | |
-| **7** | Recurrent Neural Networks, LSTM *(Quiz 2)* |   | |*Project 1 assigned*|
-| **8** | Dependency Parsing  |    | |  |
+| **7** | Recurrent Neural Networks, LSTM *(Quiz 2)* |   |This series is probably the best reference: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ |*Project 1 assigned*|
+| **8** | Dependency Parsing  |    | SLP: Chapter 10 |  |
 | **9** | Language models *(Quiz 3)* |    | | |
 | **10** | Seq2Seq,  Attention |    | | |
 | **11** | Translation |    | | *Project 1 due* |
