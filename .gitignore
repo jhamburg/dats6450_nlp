@@ -2,6 +2,7 @@
 personal/
 twitter/
 model_output/
+pos/dataset
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
